@@ -1,5 +1,5 @@
 #!/usr/bin/env node
 /** @format */
 
-import { hello } from "..";
-hello();
+import { gradation } from '..';
+export default gradation;

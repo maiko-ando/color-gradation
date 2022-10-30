@@ -3,4 +3,4 @@
 /** @format */
 Object.defineProperty(exports, "__esModule", { value: true });
 const __1 = require("..");
-(0, __1.hello)();
+exports.default = __1.gradation;
